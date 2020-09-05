@@ -1,5 +1,5 @@
 {
-    "name": "topthink/think-queue",
+    "name": "strack/think-queue",
     "description": "The ThinkPHP5 Queue Package",
     "type": "think-extend",
     "authors": [
@@ -18,9 +18,8 @@
         ]
     },
     "require": {
-        "topthink/think-helper": ">=1.0.4",
-        "topthink/think-installer": "^2.0",
-        "topthink/framework": "5.1.*"
+        "strack/installer": "1.0",
+        "strack/framework": "dev-master"
     },
     "extra": {
         "think-config": {
